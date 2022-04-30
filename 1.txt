@@ -1,1 +1,3 @@
 im learning git
+git is little confusing
+but i will learn fast
